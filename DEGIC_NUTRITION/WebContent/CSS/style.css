@@ -1,0 +1,135 @@
+#wrapper{
+	width:1350px; 
+	height:1850px;
+	border:1px solid green;
+	background-color:none;
+	margin:10px auto;
+}
+
+#header{
+	width:1220px; 
+	height:100px;
+	border:1px solid green;
+	background-color:none;
+	margin:10px auto;
+}
+
+.Box{
+	width:220px;
+	height:30px;
+	border:1px solid red;
+	margin:10px 0px 0px 10px;
+	float:left;}
+#link{
+text-decoration:none;
+padding-right:10px;
+}
+#btn1{width:80px;
+	background:purple;
+	color:white;
+	border:none;
+	border-radius:10px;
+}
+
+#nav{
+	width:1220px; 
+	height:40px;
+	border:1px solid green;
+	background-color:blue;
+	border-radius:12px;
+	margin:10px auto;
+}
+#nav ul{
+	padding:0px;
+	margin:0px;
+}
+#nav ul li{
+	list-style:none;
+	float:left;
+	padding: 10px 0px 0px 55px;
+}
+#nav ul li a{
+	text-decoration:none;
+	color:white;
+}
+#nav ul li:first-child{
+	width:60px;
+	background:purple;
+	 margin:6px 0px 0px 35px; 
+	padding:2px 0px 3px 20px;
+	
+	border-radius:5px;
+}
+
+.Box1{
+	width:120px;
+	height:50px;
+	border:1px solid red;
+	margin:80px 0px 0px 10px;
+	float:left;}
+
+
+
+#search_bar{
+	width:1220px; 
+	height:34px;
+	border:1px solid green;
+	background-color:none;
+	border-radius:12px;
+	margin:10px auto;
+	background:url("../images/pink_03333.jpg")no-repeat;
+}
+
+input{
+	width:170px;
+	margin-left:55px;
+	margin-top:5px;
+	
+	
+}
+
+.btn2{width:90px;
+	background:white;
+	color:black;
+	border:none;
+	border-radius:10px;
+	
+	padding-right:10px;
+	
+}
+
+p{margin-right:80px;}
+#photo{
+	width:700px; 
+	height:500px;
+	border:1px solid green;
+	background-color:none;
+	margin:10px 0px 0px 10px;
+	float:left;
+}
+
+.Box2 {
+    width: 250px;
+    height: 67px;
+    border: 1px solid #F00;
+    margin: 10px 0px 0px 10px;
+}
+
+#expert{
+	width:450px;
+	height:500px;
+	border:1px solid red;
+	margin:10px 10px 0px 0px;
+	float:right;}
+
+#Todays {
+    width: 700px;
+    height: 350px;
+    border: 1px solid black;
+    margin: 10px 0px 0px 10px;
+    float:left;
+    
+}
+
+
+
